@@ -9,7 +9,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    display: inline;
+    
   }
 
 ul {
@@ -37,16 +37,23 @@ ul {
   }
 
   img{
-    height: 350px;
-    width: 500px !important;
+    height: 300px;
+    width: 450px !important;
     box-shadow: 0px 1px 4px 1px rgb(8, 8, 8);
-    display: inline;
+  
     margin: 20px;
     
   }
   .row{
   margin: auto;
   width: 100%;
-   padding: 10px;
+  padding: 10px;
     
   }
+  .header{
+  
+      padding: 10px;
+      text-align: center;
+
+    }
+  
